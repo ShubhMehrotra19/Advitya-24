@@ -38,6 +38,6 @@ The project journey involved a meticulous design process, drawing inspiration fr
 
 # 📸 Project Functioning:
 
-
+https://github.com/ShubhMehrotra19/Advitya-24/assets/110672923/7b4910a8-3526-4aa9-8280-1d1815b9b8b5
 
 Feel free to share your thoughts on the design and functionality. While contributions are not currently accepted, any bug reports or suggestions are highly appreciated. Stay tuned for more exciting projects in the pipeline!
